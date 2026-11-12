@@ -4,9 +4,9 @@ import pytz
 import swisseph as swe
 
 # ================= 1. ALLOWED GMAIL IDs & PASSWORDS LIST =================
-ALLOWED_GMAIL_USERS = [
-    "Sainimayur43@gmail.com",
-]
+ALLOWED_GMAIL_USERS = {
+    "sainimayur43@gmail.com": "sain3849ur"
+}
 
 # ================= 2. ASTROLOGICAL & SBC 9x9 CONSTANTS =================
 DASHA_LORDS = ['Ketu', 'Venus', 'Sun', 'Moon', 'Mars', 'Rahu', 'Jupiter', 'Saturn', 'Mercury']
