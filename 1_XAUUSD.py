@@ -241,7 +241,7 @@ def main():
                 clean_user = username.strip().lower()
                 clean_pass = password.strip()
                 valid = False
-                for allowed_email, allowed_pin in ALLOWED_GMAIL_USERS:
+                for allowed_email, allowed_pin in ALLOWED_GMAIL_USERS.items():
                     if clean_user == allowed_email.strip().lower() and clean_pass == allowed_pin:
                         valid = True
                         break
