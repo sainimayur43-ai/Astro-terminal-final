@@ -5,7 +5,7 @@ import swisseph as swe
 
 # ================= 1. ALLOWED GMAIL IDs & PASSWORDS LIST =================
 ALLOWED_GMAIL_USERS = {
-    ALLOWED_GMAIL_USERS = {
+
     "sainimayur43@gmail.com": st.secrets["APP_PASSWORD"]
 }
 }
