@@ -71,7 +71,7 @@ ALLOWED_GMAIL_USERS = [
     ("mit2025gold@gmail.com", "mitg7382ld"),
     ("rajeshjangle75180@gmail.com", "raje5938le"),
     ("dpkant05@gmail.com", "dpka3829nt"),
-    ("sainimayur43@gmail.com", "sain3849ur"),
+    ("sainimayur43@gmail.com", "sain8990ur"),
     ("pirsabmulla.pm@gmail.com", "pirs8273pm"),
     ("manishdhabekar2007@gmail.com", "mani9382ar"),
     ("dharmesandeep@gmail.com", "dhar1928ep"),
