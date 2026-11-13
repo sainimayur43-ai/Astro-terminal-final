@@ -8,7 +8,7 @@ ALLOWED_GMAIL_USERS = {
 
     "sainimayur43@gmail.com": st.secrets["APP_PASSWORD"]
 }
-}
+
 
 # ================= 2. ASTROLOGICAL & SBC 9x9 CONSTANTS =================
 DASHA_LORDS = ['Ketu', 'Venus', 'Sun', 'Moon', 'Mars', 'Rahu', 'Jupiter', 'Saturn', 'Mercury']
