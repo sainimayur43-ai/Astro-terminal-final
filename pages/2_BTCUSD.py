@@ -7,7 +7,7 @@ import swisseph as swe
 ALLOWED_GMAIL_USERS = [
     ("spiritualteam43@gmail.com", "admin999"),
     ("4tradingviews@gmail.com", "pass123"),
-    ("sainimayur43@gmail.com", "saini@8990")
+    ("sainimayur43@gmail.com", "saini@8990"),
 [
 
 
