@@ -8,11 +8,12 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # ================= 1. ALLOWED GMAIL IDs & PASSWORDS =================
-ALLOWED_GMAIL_USERS = ]
+ALLOWED_GMAIL_USERS = [
     ("spiritualteam43@gmail.com", "admin999"),
     ("4tradingviews@gmail.com", "pass123"),
     ("spiritualteam27@gmail.com", "gold786"),
     ("sainimayur43@gmail.com", "saini@8990"),
+]
 
 # ================= 2. ASTROLOGICAL SETUP =================
 LATITUDE, LONGITUDE = 19.0760, 72.8777 # Ahilyanagar / Mumbai
