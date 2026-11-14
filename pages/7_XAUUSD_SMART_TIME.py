@@ -8,7 +8,7 @@ from astral.sun import sun
 
 # ================= 1. ALLOWED GMAIL IDs & PASSWORDS =================
 ALLOWED_GMAIL_USERS = [
-    ("spiritualteam43@gmail.com", "admin999"),
+    ("Sainimayur43@gmail.com", "saini@8990"),
     ("4tradingviews@gmail.com", "pass123"),
     ("annjaldubai2025@gmail.com", "gold786"),
     ("ravijaiswal1838@gmail.com", "xau2026"),
