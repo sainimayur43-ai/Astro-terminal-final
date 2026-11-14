@@ -8,7 +8,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # ================= 1. ALLOWED GMAIL IDs & PASSWORDS =================
-ALLOWED_GMAIL_USERS = [
+ALLOWED_GMAIL_USERS = ]
     ("spiritualteam43@gmail.com", "admin999"),
     ("4tradingviews@gmail.com", "pass123"),
     ("spiritualteam27@gmail.com", "gold786"),
