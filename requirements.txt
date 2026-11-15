@@ -4,3 +4,4 @@ pytz
 pandas
 astral
 ephem
+yfinance
