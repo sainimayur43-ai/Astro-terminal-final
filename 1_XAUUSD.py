@@ -7,7 +7,7 @@ import swisseph as swe
 ALLOWED_GMAIL_USERS = {
 
     "sainimayur43@gmail.com": st.secrets["APP_PASSWORD"]
-    ("Sainimayur43@gmail.com", "saini@9090"),
+    
 }
 
 
