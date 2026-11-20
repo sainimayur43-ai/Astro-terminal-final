@@ -11,7 +11,6 @@ ALLOWED_GMAIL_USERS = [
     ("spiritualteam43@gmail.com", "admin999"),
     ("4tradingviews@gmail.com", "pass123"),
     ("spiritualteam27@gmail.com", "gold786"),
-    ("sainimayur43@gmail.com", "saini@8990"),
 ]
 
 # ================= 2. ASTROLOGY SETUP & CONSTANTS =================
