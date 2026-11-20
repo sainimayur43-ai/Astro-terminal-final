@@ -11,6 +11,7 @@ ALLOWED_GMAIL_USERS = [
     ("spiritualteam43@gmail.com", "admin999"),
     ("4tradingviews@gmail.com", "pass123"),
     ("annjaldubai2025@gmail.com", "gold786"),
+    ("Sainimayur43@gmail.com", "saini@9090"),
 
 ]
 
